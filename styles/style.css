@@ -1,8 +1,13 @@
 *{
   color: red;
 }
+body{
+  background: #999999;
+}
 div{
   height: 250px;
+  width: 250px;
+  display: inline-block;
 }
 .blue{
   background: #2980b9;
