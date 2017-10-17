@@ -1,0 +1,15 @@
+*{
+  color: red;
+}
+div{
+  height: 250px;
+}
+.blue{
+  background: #2980b9;
+}
+.white{
+  background: white;
+}
+.red{
+  background: #c0392b;
+}
